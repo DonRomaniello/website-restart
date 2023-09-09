@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <Header />
       <div id='Content'>
-        <div id='Everything' >Here</div>
-        </div>
+          Here
+      </div>
     </div>
   );
 }

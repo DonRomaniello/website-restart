@@ -3,10 +3,12 @@ import '../styles/App.css'
 
 const Header = () => {
   return (
+    <div id='Head-wrapper'>
     <div id="App-header">
       <div id="Name">Name</div>
       <div id="Right">Right</div>
-      </div>
+    </div>
+    </div>
   )
 }
 
